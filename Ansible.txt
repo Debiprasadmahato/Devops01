@@ -41,3 +41,4 @@ Test you node serverss from Ansible controller server
 Run simple command
 #ansible  -m command  -a "ifconfig"  all
 Debiprasad Here
+Emili Here
