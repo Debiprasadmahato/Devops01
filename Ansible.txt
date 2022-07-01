@@ -40,3 +40,4 @@ Test you node serverss from Ansible controller server
 #ansible -m ping  -all
 Run simple command
 #ansible  -m command  -a "ifconfig"  all
+Debiprasad Here
