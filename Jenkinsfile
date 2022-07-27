@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Stage1') {
       steps {
-        sh 'echo "Hostname is AWS"'
+        sh 'echo "Hostname is \'hostname\'"'
       }
     }
 
